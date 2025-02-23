@@ -1,0 +1,1 @@
+gcc -o main main.c include/libraylib.a -I./include -lm -O1
